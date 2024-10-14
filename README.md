@@ -1,2 +1,2 @@
 # holbertonschool-shell
-Projet semaine 1
+Projet shell
