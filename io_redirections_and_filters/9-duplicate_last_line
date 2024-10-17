@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n1 >> iacta 
+echo -n 1 >> iacta 
