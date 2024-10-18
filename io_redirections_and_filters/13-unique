@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | uniq
+ls -t | uniq -u
