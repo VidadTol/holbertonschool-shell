@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 13-unique | sort --ignore-case | uniq -u
+ls -t | sort --ignore-case | uniq -u
